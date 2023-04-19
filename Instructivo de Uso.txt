@@ -1,0 +1,12 @@
+Instrucciones de Uso
+
+1. Boton Cliente podes Listar todos los cliente y agregar nuevos modifica y elimina
+
+2. Boton Trayecto Agrega modifica y elimina.
+
+3. Boton Reservas Agrega solo reservas.
+
+4. Boton Reserva listados modifica ,elimina , lista por pagos , lista por clientes , Paga y Cansela pasajaes
+
+5. Boton Funciones Reserva lista todo, y lista por fecha,
+
